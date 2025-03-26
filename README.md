@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Polina Kravchenko</h1>
 
 <h3 align="center">Student of Computer Engineering from Ukraine.</h3>
-<h3 align="center">Starting my Python development journey with an interest in Data Engineering, Analytics and ML.</h3>
+<h3 align="center">Starting my Python development journey with an interest in Data Engineering, Analytics, ML and Automation Testing.</h3>
 
 ###
 
