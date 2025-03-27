@@ -5,14 +5,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=polinakravchenko" alt="polinakravchenko" /></a> </p>
-
-###
-
 <h2 align="left">Connect with me</h2>
 <p align="center">
 <a href="https://linkedin.com/in/polinakravchenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="polinakravchenko" height="30" width="40" /></a>
